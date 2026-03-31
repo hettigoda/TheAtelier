@@ -1,0 +1,7 @@
+{
+  "name": "THE ATELIER",
+  "description": "A curated sanctuary where bespoke artistry meets the precision of clinical excellence. Luxury Spa & Salon Experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
